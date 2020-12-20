@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Diceroller</string>
+    <string name="rollnow">Roll</string>
+    <string name="_1">1</string>
+    <string name="roll">Roll</string>
+</resources>
